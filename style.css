@@ -243,6 +243,7 @@ button{
 }
 button:hover{
     transform: translateY(-10px);
+    cursor: pointer;
 }
 @media (max-width: 1365px){
     .zoom1,.zoom2,.zoom3{
